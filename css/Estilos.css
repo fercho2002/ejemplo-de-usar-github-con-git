@@ -3,3 +3,8 @@ body{
     background-color: aqua;
     font-size: medium;
 }
+#ramauno {
+    border: 5px blue;
+    background-color: chartreuse;
+    color: darkgoldenrod;
+}
