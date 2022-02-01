@@ -1,10 +1,16 @@
 body{
     text-align: center;
-    background-color: aqua;
+    background-color: white;
     font-size: medium;
 }
 #ramauno {
-    border: 5px blue;
-    background-color: chartreuse;
-    color: darkgoldenrod;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    height: auto;
+    font-size: 10px;
+    border: blue 4px solid;
+    background-color: rgb(83, 168, 224);
+    color: rgb(248, 227, 227);
+    padding: 20px 10px;
 }
